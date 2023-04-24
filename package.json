@@ -1,0 +1,16 @@
+{
+  "name": "fetcher",
+  "description": "I used axios a lot but it's 29kb and do I really need all of it?",
+  "packageManager": "yarn@3.3.1",
+  "scripts": {
+    "test": "pnpify jest"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.5.1",
+    "@types/node": "^18.16.0",
+    "@yarnpkg/pnpify": "^4.0.0-rc.42",
+    "jest": "^29.5.0",
+    "ts-jest": "^29.1.0",
+    "typescript": "^5.0.4"
+  }
+}
